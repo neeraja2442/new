@@ -1,0 +1,83 @@
+body{
+	text-align: center;
+}
+#title{
+	background-color: #158467;
+	text-align:left;
+	padding: 3% 15% 7%;
+}
+.h1{
+	font-size: 3.5rem;
+	line-height: 1.5;
+	font-family: 'righteous',cursive;
+	color: #dddddd;
+}
+.beb{
+	width: 300px;
+	margin-left: 100px;
+	padding-top: 20px;
+}
+.navbar-brand{
+	font-size: 5rem;
+	font-family: 'orbitan',sans-serif;
+}
+.navbar-item{
+	font-size: 105rem;
+	padding: 10px;
+}
+.heading-2{
+	text-align: center;
+	padding-bottom: 50px;	
+}
+.details{
+	background-color: #abedd8;
+}
+#pricing{
+	padding: 50px;
+	background-color: #bfdcae;
+}
+.heading-3{
+	text-align: center;
+	color:grey;
+}
+.card{
+	padding: 20px 20px;
+}
+#testimonials{
+	background-color: #888888;
+	color: #fff;
+}
+.testimonial-image{
+	border-radius: 100%
+	width:10%;
+	margin: 20px;
+}
+.corousel-item{
+	padding: 7% 15%;
+}
+#cta{
+	background-color: #222831;
+}
+.footer{
+	background-color: #fff;
+}
+.h3f{
+	color: white;
+	padding: 3% 20%;
+
+}
+.b1{
+	margin: 20px;
+}
+#footer{
+	padding: 4% 0;
+	font-size: 1.5rem;
+	background-color: #ebecf1;
+	text-align: center;
+	position: relative;
+	left: 9rem;
+
+}
+.bottom-icon{
+	padding: 1% 1%;
+}
